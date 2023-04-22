@@ -141,7 +141,7 @@ gcloud compute firewall-rules create rule1 --allow tcp:30008
 *************************************************************
 Deployment:  ROLLING UPDATE
 
-******************************
+*************************************************************
 Highlevel kubernetes object called Deployment:
 
 
