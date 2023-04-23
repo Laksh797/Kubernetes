@@ -267,7 +267,7 @@ go to browser with an ip:30008
 	# kubectl delete -f pod-definition3.yml
 
 
-************************************************************
+***************************************************************
 
 Service Object: LoadBalancer
 
